@@ -8,6 +8,7 @@ Para ter acesso ao histórico acadêmico e experiência profissional, acesse meu
 ### Slides
 
 
+[Quem sou eu - Git Hub.pptx](https://github.com/viniihsousa/viniihsousa/files/12325867/Quem.sou.eu.-.Git.Hub.pptx)
 
 > [!WARNING]
 > Criado totalmente com intuito educativo.
